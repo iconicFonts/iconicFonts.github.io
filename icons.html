@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Your page description here" />
+    <meta name="keywords" content="keyword1, keyword2, keyword3" />
+    <title>icons & Glyphs | IconicFonts</title>
+    <link
+      href="assets/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/images/apple-touch-icon.png"
+    />
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+
+    <link
+      rel="icon"
+      href="/images/favicon-16x16.png"
+      sizes="16x16"
+      type="image/png"
+    />
+    <link
+      rel="icon"
+      href="/images/favicon-32x32.png"
+      sizes="32x32"
+      type="image/png"
+    />
+    <link rel="manifest" href="manifest.json" />
+  </head>
+
+  <body>
+    <div class="sticky-top" id="navbar-container"></div>
+    <div id="container" class="container">
+      <div class="icons sticky-top">
+        <div class="text-center" id="glyphContainer"></div>
+        <div
+          id="stylesButtonsContainer"
+          class="btn-group mb-3"
+          ole="group"
+          aria-label="Button group with styles"
+        ></div>
+        <div class="d-flex">
+          <div class="flex-fill">
+            <form role="search">
+              <div class="input-group">
+                <span class="input-group-text" id="basic-addon1">󴈃</span>
+                <input
+                  class="form-control search-bar"
+                  type="search"
+                  id="searchBar"
+                  placeholder="Search for glyphs..."
+                  aria-label="Search"
+                />
+                <span
+                  class="input-group-text justify-content-center"
+                  style="width: 5rem"
+                  id="glyphCount"
+                ></span>
+              </div>
+            </form>
+          </div>
+
+          <span class="ms-3 me-3" id="colorPickerContainer"></span>
+
+          <button
+            class="btn btn-primary"
+            type="button"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasWithBothOptions"
+            aria-controls="offcanvasWithBothOptions"
+          >
+            󳿕 Packs
+          </button>
+          <div
+            class="offcanvas offcanvas-end"
+            data-bs-scroll="true"
+            tabindex="-1"
+            id="offcanvasWithBothOptions"
+            aria-labelledby="offcanvasWithBothOptionsLabel"
+          >
+            <div class="offcanvas-header">
+              <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">
+                Packs
+              </h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="offcanvas"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="offcanvas-body">
+              <p>
+                Choose packs to filter your search; download all icons in a pack
+                by clicking the download button
+              </p>
+              <div class="overflow-auto" id="checkboxes"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="text-center mt-5" id="results"></div>
+    </div>
+
+    <div class="position-fixed bottom-0 start-0 ps-2 pb-2">
+      <a
+        class="btn btn-primary"
+        href="https://www.patreon.com/mdSlash"
+        target="_blank"
+        role="button"
+      >
+        Sponsor this project
+      </a>
+    </div>
+    <script
+      src="assets/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script src="assets/js/papaparse.min.js"></script>
+    <script src="assets/js/fuzzysort.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

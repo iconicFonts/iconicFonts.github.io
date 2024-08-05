@@ -1,0 +1,199 @@
+[
+  { "name": "0xProto", "version": "???", "fontFile": "fonts/0xProto.woff2" },
+  {
+    "name": "AnonymousPro",
+    "version": "???",
+    "fontFile": "fonts/AnonymousPro.woff2"
+  },
+  { "name": "Apl2741", "version": "???", "fontFile": "fonts/Apl2741.woff2" },
+  { "name": "Apl385", "version": "???", "fontFile": "fonts/Apl385.woff2" },
+  {
+    "name": "AudioLinkMono",
+    "version": "???",
+    "fontFile": "fonts/AudioLinkMono.woff2"
+  },
+  {
+    "name": "AurulentSansMono",
+    "version": "???",
+    "fontFile": "fonts/AurulentSansMono.woff2"
+  },
+  {
+    "name": "AzeretMono",
+    "version": "???",
+    "fontFile": "fonts/AzeretMono.woff2"
+  },
+  { "name": "B612", "version": "???", "fontFile": "fonts/B612.woff2" },
+  { "name": "Bedstead", "version": "???", "fontFile": "fonts/Bedstead.woff2" },
+  {
+    "name": "BigBlueTerminalPlus",
+    "version": "???",
+    "fontFile": "fonts/BigBlueTerminalPlus.woff2"
+  },
+  {
+    "name": "BitstreamVeraSansMono",
+    "version": "???",
+    "fontFile": "fonts/BitstreamVeraSansMono.woff2"
+  },
+  {
+    "name": "BorgSansMono",
+    "version": "???",
+    "fontFile": "fonts/BorgSansMono.woff2"
+  },
+  {
+    "name": "ComicMono",
+    "version": "???",
+    "fontFile": "fonts/ComicMono.woff2"
+  },
+  {
+    "name": "CommitMono",
+    "version": "???",
+    "fontFile": "fonts/CommitMono.woff2"
+  },
+  {
+    "name": "ConsolaMono",
+    "version": "???",
+    "fontFile": "fonts/ConsolaMono.woff2"
+  },
+  {
+    "name": "CourierPrime",
+    "version": "???",
+    "fontFile": "fonts/CourierPrime.woff2"
+  },
+  {
+    "name": "CutiveMono",
+    "version": "???",
+    "fontFile": "fonts/CutiveMono.woff2"
+  },
+  {
+    "name": "DaddyTimeMono",
+    "version": "???",
+    "fontFile": "fonts/DaddyTimeMono.woff2"
+  },
+  { "name": "DMMono", "version": "???", "fontFile": "fonts/DMMono.woff2" },
+  { "name": "edlo", "version": "???", "fontFile": "fonts/edlo.woff2" },
+  {
+    "name": "FantasqueSansMono",
+    "version": "???",
+    "fontFile": "fonts/FantasqueSansMono.woff2"
+  },
+  { "name": "FiraCode", "version": "???", "fontFile": "fonts/FiraCode.woff2" },
+  { "name": "FiraMono", "version": "???", "fontFile": "fonts/FiraMono.woff2" },
+  {
+    "name": "GeistMono",
+    "version": "???",
+    "fontFile": "fonts/GeistMono.woff2"
+  },
+  { "name": "Hack", "version": "???", "fontFile": "fonts/Hack.woff2" },
+  { "name": "Hasklig", "version": "???", "fontFile": "fonts/Hasklig.woff2" },
+  {
+    "name": "iAWriterMono",
+    "version": "???",
+    "fontFile": "fonts/iAWriterMono.woff2"
+  },
+  { "name": "IBM3270", "version": "???", "fontFile": "fonts/IBM3270.woff2" },
+  {
+    "name": "IBMPlexMono",
+    "version": "???",
+    "fontFile": "fonts/IBMPlexMono.woff2"
+  },
+  {
+    "name": "IntelOneMono",
+    "version": "???",
+    "fontFile": "fonts/IntelOneMono.woff2"
+  },
+  {
+    "name": "JetBrainsMono",
+    "version": "???",
+    "fontFile": "fonts/JetBrainsMono.woff2"
+  },
+  { "name": "Lilex", "version": "???", "fontFile": "fonts/Lilex.woff2" },
+  {
+    "name": "MapleMono",
+    "version": "???",
+    "fontFile": "fonts/MapleMono.woff2"
+  },
+  {
+    "name": "MartianMono",
+    "version": "???",
+    "fontFile": "fonts/MartianMono.woff2"
+  },
+  {
+    "name": "MonaspaceArgon",
+    "version": "???",
+    "fontFile": "fonts/MonaspaceArgon.woff2"
+  },
+  {
+    "name": "MonaspaceKrypton",
+    "version": "???",
+    "fontFile": "fonts/MonaspaceKrypton.woff2"
+  },
+  {
+    "name": "MonaspaceNeon",
+    "version": "???",
+    "fontFile": "fonts/MonaspaceNeon.woff2"
+  },
+  {
+    "name": "MonaspaceRadon",
+    "version": "???",
+    "fontFile": "fonts/MonaspaceRadon.woff2"
+  },
+  {
+    "name": "MonaspaceXenon",
+    "version": "???",
+    "fontFile": "fonts/MonaspaceXenon.woff2"
+  },
+  { "name": "Monofoki", "version": "???", "fontFile": "fonts/Monofoki.woff2" },
+  { "name": "Monoid", "version": "???", "fontFile": "fonts/Monoid.woff2" },
+  { "name": "Mononoki", "version": "???", "fontFile": "fonts/Mononoki.woff2" },
+  {
+    "name": "NewHeterodoxMono",
+    "version": "???",
+    "fontFile": "fonts/NewHeterodoxMono.woff2"
+  },
+  {
+    "name": "OfficeCodePro",
+    "version": "???",
+    "fontFile": "fonts/OfficeCodePro.woff2"
+  },
+  {
+    "name": "OxygenMono",
+    "version": "???",
+    "fontFile": "fonts/OxygenMono.woff2"
+  },
+  {
+    "name": "PressStart2P",
+    "version": "???",
+    "fontFile": "fonts/PressStart2P.woff2"
+  },
+  {
+    "name": "RecMonoCasual",
+    "version": "???",
+    "fontFile": "fonts/RecMonoCasual.woff2"
+  },
+  {
+    "name": "Scientifica",
+    "version": "???",
+    "fontFile": "fonts/Scientifica.woff2"
+  },
+  {
+    "name": "SeriousShanns",
+    "version": "???",
+    "fontFile": "fonts/SeriousShanns.woff2"
+  },
+  {
+    "name": "SourceCodePro",
+    "version": "???",
+    "fontFile": "fonts/SourceCodePro.woff2"
+  },
+  { "name": "Sudo", "version": "???", "fontFile": "fonts/Sudo.woff2" },
+  {
+    "name": "UbuntuSansMono",
+    "version": "???",
+    "fontFile": "fonts/UbuntuSansMono.woff2"
+  },
+  {
+    "name": "VictorMono",
+    "version": "???",
+    "fontFile": "fonts/VictorMono.woff2"
+  }
+]

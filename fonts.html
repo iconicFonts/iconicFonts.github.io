@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Your page description here" />
+    <meta name="keywords" content="keyword1, keyword2, keyword3" />
+    <title>Fonts/Glyphs</title>
+    <link
+      href="assets/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
 
+    <style id="fontStyles"></style>
+  </head>
+
+  <body>
+    <div class="sticky-top" id="navbar-container"></div>
+
+    <div class="container">
+      <dl class="row mt-5">
+        <dt class="col-sm-3">Language</dt>
+        <dd class="col-sm-9" id="languageSelectButton"></dd>
+        <dt class="col-sm-3">Font Size</dt>
+        <dd class="col-sm-9">
+          <input
+            type="range"
+            class="form-range"
+            id="customRange1"
+            min="10"
+            max="40"
+            value="25"
+          />
+        </dd>
+      </dl>
+      <div class="d-flex mb-3">
+        <div class="flex-fill">
+          <form role="search">
+            <div class="input-group">
+              <span class="input-group-text" id="basic-addon1">󴈃</span>
+              <input
+                id="searchInput"
+                class="form-control"
+                type="search"
+                placeholder="Search fonts.."
+                aria-label="Search"
+              />
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="accordion" id="accordionExample"></div>
+
+      <div id="searchResults"></div>
+    </div>
+
+    <script
+      src="assets/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script src="assets/js/prism.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

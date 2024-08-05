@@ -1,0 +1,4 @@
+/* CSS code */
+body {
+  font-family: '${fontName}';
+}
